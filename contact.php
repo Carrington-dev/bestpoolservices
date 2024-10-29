@@ -82,8 +82,7 @@
                         <div class="info">
                             <div>
                                 <i class="bi bi-geo-alt"></i>
-                                <p>1440 vulture street
-                                    <br>Riverside view, Ext 35</p>
+                                <p><?php echo $address; ?></p>
                             </div>
 
                             <div>
